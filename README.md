@@ -14,4 +14,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 ##Shereph
-This is sample change - shereph kumar (DevOps Master)
+This is sample change - To be deleted (Shereph)
